@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CoraDeFrancesco
 - 👀 I’m interested in computational astrophysics!
 - 🌱 I’m currently learning about quasar outflows and object oriented programming!
-- 💞️ I’m looking to collaborate on projects open to undergraduate researchers in astrophysics!
+- 💞️ I’m looking to collaborate on projects open to graduate researchers in astrophysics!
 
 - 📫 How to reach me: https://www.linkedin.com/in/cora-defrancesco-8b24841b6
 
